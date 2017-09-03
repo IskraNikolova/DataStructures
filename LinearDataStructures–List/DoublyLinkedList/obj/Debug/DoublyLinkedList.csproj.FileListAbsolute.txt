@@ -1,0 +1,5 @@
+F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
