@@ -6,6 +6,9 @@
 
     public class LongestSubsequence
     {
+        /// <summary>
+        /// A program that reads list of integers and finds in it all sequences of equal elements.
+        /// </summary>
         public static void Main()
         {
             List<int> input = Console.ReadLine()
