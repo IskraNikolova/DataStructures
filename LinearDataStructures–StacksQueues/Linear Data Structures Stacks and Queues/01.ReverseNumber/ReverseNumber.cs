@@ -8,7 +8,10 @@ namespace _01.ReverseNumber
     {
         public static void Main()
         {
-            var input = Console.ReadLine().Split().Select(int.Parse);
+            var input = Console.ReadLine()
+                .Split()
+                .Select(int.Parse);
+
             Stack<int> inputs = new Stack<int>();
             foreach (var el in input)
             {

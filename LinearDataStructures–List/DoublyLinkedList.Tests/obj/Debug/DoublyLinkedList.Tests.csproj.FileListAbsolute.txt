@@ -1,9 +1,0 @@
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
-F:\Softuni\09.DataStructures\LinearDataStructures–List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
