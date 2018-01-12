@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
-public class ArrayList<T>
+public class ArrayList<T> :IEnumerable<T>
 {
     private const int Initial_Capacity = 2;
 
@@ -106,5 +108,20 @@ public class ArrayList<T>
         }
 
         return true;
+    }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        int index = this.Count;
+        while(index > 0)
+        {
+            yield return this.items[this.Count - index];
+            index--;
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return this.GetEnumerator();
     }
 }
